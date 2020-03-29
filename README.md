@@ -1,10 +1,12 @@
 # RowdyEat
 
-Install Flutter 
+Install Flutter
+---------------------------------------------------------- 
 Win
 https://flutter.dev/docs/get-started/install/windows
 mac
 https://flutter.dev/docs/get-started/install/macos
+----------------------------------------------------------
 Using Intlija open option then choses file, New project , uplode project from version control then copy past our repo link
 
 ## Getting Started

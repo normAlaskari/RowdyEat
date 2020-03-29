@@ -4,6 +4,7 @@ Install Flutter
 ---------------------------------------------------------- 
 Win
 https://flutter.dev/docs/get-started/install/windows
+___________________________________________________________
 mac
 https://flutter.dev/docs/get-started/install/macos
 ----------------------------------------------------------
